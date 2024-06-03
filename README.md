@@ -5,7 +5,7 @@ This Django project provides a set of APIs for user authentication and managing 
 # Postman Documentaion Link
 
 You can find the Postman documentation linked below, where each API has been thoroughly tested.
-[Postman Documentation Link](https://documenter.getpostman.com/view/16764987/2sA3Qy4oG4)
+(https://documenter.getpostman.com/view/16764987/2sA3Qy4oG4)
 
 ## Features
 
